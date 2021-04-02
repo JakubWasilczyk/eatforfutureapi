@@ -1,0 +1,34 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "title": "Ricetta nr. 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+            "image": "assets/recipes/recipe-1"
+        },
+        {
+            "id": 2,
+            "title": "Ricetta nr. 2",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+            "image": "assets/recipes/recipe-2"
+        },
+        {
+            "id": 3,
+            "title": "Ricetta nr. 3",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+            "image": "assets/recipes/recipe-3"
+        },
+        {
+            "id": 4,
+            "title": "Ricetta nr. 4",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+            "image": "assets/recipes/recipe-4"
+        },
+        {
+            "id": 5,
+            "title": "Ricetta nr. 5",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+            "image": "assets/recipes/recipe-5"
+        }
+    ]
+}
