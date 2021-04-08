@@ -36,91 +36,91 @@
             "id": 1,
             "title": "Vegetale nr. 1",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-            "image": "assets/vegetables/vegetable-1"
+            "image": "assets/images/vegetables/vegetable-1"
         },
         {
             "id": 2,
             "title": "Vegetale nr. 2",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-            "image": "assets/vegetables/vegetable-2"
+            "image": "assets/images/vegetables/vegetable-2"
         },
         {
             "id": 3,
             "title": "Vegetale nr. 3",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-            "image": "assets/vegetables/vegetable-3"
+            "image": "assets/images/vegetables/vegetable-3"
         },
         {
             "id": 4,
             "title": "Vegetale nr. 4",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-            "image": "assets/vegetables/vegetable-4"
+            "image": "assets/images/vegetables/vegetable-4"
         },
         {
             "id": 5,
             "title": "Vegetale nr. 5",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-            "image": "assets/vegetables/vegetable-5"
+            "image": "assets/images/vegetables/vegetable-5"
         },
         {
             "id": 6,
             "title": "Vegetale nr. 6",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-            "image": "assets/vegetables/vegetable-6"
+            "image": "assets/images/vegetables/vegetable-6"
         },
         {
             "id": 7,
             "title": "Vegetale nr. 7",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-            "image": "assets/vegetables/vegetable-7"
+            "image": "assets/images/vegetables/vegetable-7"
         },
         {
             "id": 8,
             "title": "Vegetale nr. 8",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-            "image": "assets/vegetables/vegetable-8"
+            "image": "assets/images/vegetables/vegetable-8"
         },
         {
             "id": 9,
             "title": "Vegetale nr. 9",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-            "image": "assets/vegetables/vegetable-9"
+            "image": "assets/images/vegetables/vegetable-9"
         },
         {
             "id": 10,
             "title": "Vegetale nr. 10",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-            "image": "assets/vegetables/vegetable-10"
+            "image": "assets/images/vegetables/vegetable-10"
         },
         {
             "id": 11,
             "title": "Vegetale nr. 11",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-            "image": "assets/vegetables/vegetable-11"
+            "image": "assets/images/vegetables/vegetable-11"
         },
         {
             "id": 12,
             "title": "Vegetale nr. 12",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-            "image": "assets/vegetables/vegetable-12"
+            "image": "assets/images/vegetables/vegetable-12"
         },
         {
             "id": 13,
             "title": "Vegetale nr. 13",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-            "image": "assets/vegetables/vegetable-13"
+            "image": "assets/images/vegetables/vegetable-13"
         },
         {
             "id": 14,
             "title": "Vegetale nr. 14",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-            "image": "assets/vegetables/vegetable-14"
+            "image": "assets/images/vegetables/vegetable-14"
         },
         {
             "id": 15,
             "title": "Vegetale nr. 15",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-            "image": "assets/vegetables/vegetable-15"
+            "image": "assets/images/vegetables/vegetable-15"
         }
     ],
     "news": [
