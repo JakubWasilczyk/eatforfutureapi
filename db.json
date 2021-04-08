@@ -36,91 +36,91 @@
             "id": 1,
             "title": "Vegetable nr. 1",
             "description": "Lorem ipsum dolor sit amet",
-            "image": "assets/images/vegetables/vegetable-1"
+            "image": "assets/images/vegetables/vegetable-1.png"
         },
         {
             "id": 2,
             "title": "Vegetable nr. 2",
             "description": "Lorem ipsum dolor sit amet",
-            "image": "assets/images/vegetables/vegetable-2"
+            "image": "assets/images/vegetables/vegetable-2.png"
         },
         {
             "id": 3,
             "title": "Vegetable nr. 3",
             "description": "Lorem ipsum dolor sit amet",
-            "image": "assets/images/vegetables/vegetable-3"
+            "image": "assets/images/vegetables/vegetable-3.png"
         },
         {
             "id": 4,
             "title": "Vegetable nr. 4",
             "description": "Lorem ipsum dolor sit amet",
-            "image": "assets/images/vegetables/vegetable-4"
+            "image": "assets/images/vegetables/vegetable-4.png"
         },
         {
             "id": 5,
             "title": "Vegetable nr. 5",
             "description": "Lorem ipsum dolor sit amet",
-            "image": "assets/images/vegetables/vegetable-5"
+            "image": "assets/images/vegetables/vegetable-5.png"
         },
         {
             "id": 6,
             "title": "Vegetable nr. 6",
             "description": "Lorem ipsum dolor sit amet",
-            "image": "assets/images/vegetables/vegetable-6"
+            "image": "assets/images/vegetables/vegetable-6.png"
         },
         {
             "id": 7,
             "title": "Vegetable nr. 7",
             "description": "Lorem ipsum dolor sit amet",
-            "image": "assets/images/vegetables/vegetable-7"
+            "image": "assets/images/vegetables/vegetable-7.png"
         },
         {
             "id": 8,
             "title": "Vegetable nr. 8",
             "description": "Lorem ipsum dolor sit amet",
-            "image": "assets/images/vegetables/vegetable-8"
+            "image": "assets/images/vegetables/vegetable-8.png"
         },
         {
             "id": 9,
             "title": "Vegetable nr. 9",
             "description": "Lorem ipsum dolor sit amet",
-            "image": "assets/images/vegetables/vegetable-9"
+            "image": "assets/images/vegetables/vegetable-9.png"
         },
         {
             "id": 10,
             "title": "Vegetable nr. 10",
             "description": "Lorem ipsum dolor sit amet",
-            "image": "assets/images/vegetables/vegetable-10"
+            "image": "assets/images/vegetables/vegetable-10.png"
         },
         {
             "id": 11,
             "title": "Vegetable nr. 11",
             "description": "Lorem ipsum dolor sit amet",
-            "image": "assets/images/vegetables/vegetable-11"
+            "image": "assets/images/vegetables/vegetable-11.png"
         },
         {
             "id": 12,
             "title": "Vegetable nr. 12",
             "description": "Lorem ipsum dolor sit amet",
-            "image": "assets/images/vegetables/vegetable-12"
+            "image": "assets/images/vegetables/vegetable-12.png"
         },
         {
             "id": 13,
             "title": "Vegetable nr. 13",
             "description": "Lorem ipsum dolor sit amet",
-            "image": "assets/images/vegetables/vegetable-13"
+            "image": "assets/images/vegetables/vegetable-13.png"
         },
         {
             "id": 14,
             "title": "Vegetable nr. 14",
             "description": "Lorem ipsum dolor sit amet",
-            "image": "assets/images/vegetables/vegetable-14"
+            "image": "assets/images/vegetables/vegetable-14.png"
         },
         {
             "id": 15,
             "title": "Vegetable nr. 15",
             "description": "Lorem ipsum dolor sit amet",
-            "image": "assets/images/vegetables/vegetable-15"
+            "image": "assets/images/vegetables/vegetable-15.png"
         }
     ],
     "news": [
